@@ -4,7 +4,7 @@ import MainLayout from './components/layout/MainLayout';
 import Dashboard from './pages/dashboard';
 import EmployeeManagement from './pages/EmployeeManagement';
 import AIHRDashboard from './pages/AIHRDashboard';
-import Talent from './pages/talent';
+import Talent from './pages/Talent';
 import Performance from './pages/Performance';
 function App() {
   return (
